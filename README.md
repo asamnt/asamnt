@@ -1,6 +1,8 @@
 ### Hi there 👋 I am a Senior Software Engineer. My core specialization includes Data Engineering, Data Visualization. Data Analytics and Data Modelling.
 Here, you will see me adding stuff that I learn/create in my free time.  🌱 Currently, learning the MERN stack
 
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=asamnt&show_icons=true&theme=radical)
+
 <!--
 **asamnt/asamnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
