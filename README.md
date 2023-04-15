@@ -1,5 +1,6 @@
 ### Hi there 👋 I am a Senior Software Engineer
 Full Stack Engineer - Java, Python and React
+
 Here, you will see me adding stuff that I learn/create in my free time
 
 <!--
